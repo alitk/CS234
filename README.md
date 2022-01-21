@@ -1,2 +1,2 @@
 # CS234
-My solution to CS234 homeworks
+My solutions to CS234 homeworks
